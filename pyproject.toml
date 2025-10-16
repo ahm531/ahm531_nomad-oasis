@@ -55,6 +55,7 @@ plugins = [
   "nomad-parser-plugins-atomistic>=1.0",
   "nomad-parser-plugins-workflow>=1.0",
   "nomad-parser-plugins-database>=1.0",
+  "nomad-measurements @ git+https://github.com/FAIRmat-NFDI/nomad-measurements.git@71b7e8c9bb376ce9e8610aba9a20be0b5bce6775",
   "fairmat-events-form @ git+https://github.com/ahm531/FAIRmat-events-form.git@ef4d281ba624ea27cf138124144f1281a6c3cbe5",
 ]
 jupyter = [
